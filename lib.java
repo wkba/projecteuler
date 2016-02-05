@@ -65,6 +65,10 @@ final class Lib{
         }
         return a[max];
 	}
+//
+	public static int a(){
+		return a
+	}
 
 
 }
